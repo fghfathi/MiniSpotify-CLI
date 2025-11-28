@@ -1,4 +1,4 @@
-> MiniSpotify-CLI
+>✅ MiniSpotify-CLI
 
 A simplified, console-based simulation of Spotify implemented in Java to practice object-oriented programming.
 
